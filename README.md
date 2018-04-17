@@ -23,6 +23,6 @@ Builds the docker container.
   $ ./run
 ```
 
-# License
+## License
 
 MIT.
