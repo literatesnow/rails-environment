@@ -1,6 +1,6 @@
 # Rails Environment
 
-Ruby environment with rails docker environment.
+Ruby and rails docker environment.
 
 ## Requirements
 
