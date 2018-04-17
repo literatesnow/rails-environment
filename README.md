@@ -17,7 +17,7 @@ Builds the docker container.
 ## Running
 
 * The `./data` directory is mapped to `/data` inside the container.
-* Exposes ports `3000` and `3000`.
+* Exposes ports `3000`.
 
 ```bash
   $ ./run
